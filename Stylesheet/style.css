@@ -17,12 +17,15 @@ img {
   width: 70%;
 }
 
-p, ul, li {
+p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
   color: #f9f6ef
+}
 
+ul{
+  list-style-type: circle;
 }
 h1 {
   color: blue;
